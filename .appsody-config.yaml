@@ -1,1 +1,2 @@
+project-name: phd-nodejs-express-template-project
 stack: appsody/nodejs-express:0.2
